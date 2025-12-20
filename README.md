@@ -19,6 +19,9 @@ I have worked with the following tech at one point or another:
 - Expo
 - Astro
 - Tailwind CSS
+- Playwright
+- Jest
+- Vitest
 
 # My setup
 - Macbook pro, M2 max with an external studio display
