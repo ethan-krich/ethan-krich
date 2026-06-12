@@ -1,11 +1,18 @@
 # 👋 Hello!
-I'm Ethan, A high school student who loves to code and to help answer questions when I can. Learning C++ as at my local college. 
+I'm Ethan, A high school student with a focus on AI agent engineering. I am learning C++ as at my local college. 
 
-![Metrics](https://metrics.lecoq.io/ethan-krich?template=classic&habits=1&stackoverflow=1&lines=1&languages=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&languages=false&languages.ignored=md&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=14&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&lines.delay=0&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&stackoverflow=false&stackoverflow.user=19019306&stackoverflow.sections=answers-top%2C%20questions-recent&stackoverflow.limit=2&stackoverflow.lines=4&stackoverflow.lines.snippet=2&config.timezone=America%2FLos_Angeles)
-
+Currently building plannar.
 
 I have worked with the following tech at one point or another:
 
+- Cursor
+- Claude Code
+- Codex
+- Opencode
+- Openclaw
+- Hermes
+- Superset.sh
+- Cmux
 - javaScript
 - typeScript
 - HTML
@@ -25,9 +32,9 @@ I have worked with the following tech at one point or another:
 
 # My setup
 - Macbook pro, M2 max with an external studio display
-- macOS 15 sequoia
 - [Arc browser][6]
-- [Warp][7]
+- Ghostty
+- Superset.sh
 
   [1]: http://universal-fs.etech.network
   [2]: https://stackoverflow.com/a/1732454/19019306
