@@ -1,7 +1,7 @@
 # 👋 Hello!
 I'm Ethan, A high school student with a focus on AI agent engineering. I am learning C++ as at my local college. 
 
-Currently building plannar.
+I am currently building [Pragma](https://pragma-app.sh). The best terminal focused ADE for parallel work.
 
 I have worked with the following tech at one point or another:
 
@@ -34,7 +34,6 @@ I have worked with the following tech at one point or another:
 - Macbook pro, M2 max with an external studio display
 - [Arc browser][6]
 - Ghostty
-- Superset.sh
 
   [1]: http://universal-fs.etech.network
   [2]: https://stackoverflow.com/a/1732454/19019306
